@@ -1,2 +1,3 @@
 Dummy line
 git represnts command line interface
+git add .  // will add all files on git
