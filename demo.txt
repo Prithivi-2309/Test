@@ -1,3 +1,4 @@
 Dummy line
 git represnts command line interface
 git add .  // will add all files on git
+day 2 .txt
